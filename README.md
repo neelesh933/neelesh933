@@ -4,9 +4,9 @@
 
 - 👨‍💻 Technical Skills:
 - Front-end: HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Bootstrap
-- Back-end: Node.js, Express.js
+- Back-end: Node.js, Express.js , spring , springbatch , Microservices
 - Database: MongoDB, MySQL
-- Testing: Jest, Enzyme
+- Testing: Jest, Enzyme, Mockito etc
 - Version Control: Git, GitHub
 
 - 🌟 Highlights of my experience:
