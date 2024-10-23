@@ -1,10 +1,10 @@
-- 👋 Hi i am Neil I'm a passionate MERN stack developer with expertise in building robust and scalable web applications.
+- 👋 Hi i am Neil I'm a passionate Full stack developer with 8 years of work experience  in building robust and scalable web applications.
   My journey in software development began in highshool. Since then, I've been dedicated to honing my skills
   and staying up to date with the latest trends and technologies.
 
 - 👨‍💻 Technical Skills:
-- Front-end: HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Bootstrap
-- Back-end: Node.js, Express.js , spring , springbatch , Microservices
+- Front-end: HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Bootstrap , Angular
+- Back-end: Node.js, Express.js , spring , springbatch , Microservices , java 
 - Database: MongoDB, MySQL
 - Testing: Jest, Enzyme, Mockito etc
 - Version Control: Git, GitHub
